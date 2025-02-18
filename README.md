@@ -1,4 +1,4 @@
- # Excel-capstone-project.
+ # Excel-project.
 
  ## Healthcare Data Analysis and Insights
 
